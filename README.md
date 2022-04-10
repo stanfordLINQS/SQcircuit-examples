@@ -1,5 +1,6 @@
 # SQcircuit-examples
 [![license](https://img.shields.io/badge/license-New%20BSD-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
+
 To manifest the potential of the SQcircuit, we prepared the examples from simple qubits to state of the art 
 super conducting circuits of the literature, in which we effortlessly reproduce the main result of the paper 
 by SQcircuit functionalities. One can find the jupyter notebook examples in example folder, some of which are:
