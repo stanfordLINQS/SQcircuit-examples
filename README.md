@@ -14,5 +14,4 @@ energy spectrum, wavefunctions, and matrix elements by use of SQcircuit.
 explained how the conventional method or perturbation theory does not correctly diagonalize their 
 highly anharmonic inductively-shunted qubits. However, by using SQcircuit, we simply reproduced the energy spectrum.
 * [Zero-Pi Qubit](https://github.com/stanfordLINQS/SQcircuit-examples/blob/main/examples/zeroPiQubit.ipynb): We calculated the
-energy spectrum and eigenfunctions of the zero-pi qubit in the 
-[Groszkowski2018](https://iopscience-iop-org.stanford.idm.oclc.org/article/10.1088/1367-2630/aab7cd)
+energy spectrum and eigenfunctions of the zero-pi qubit from [Groszkowski2018](https://iopscience-iop-org.stanford.idm.oclc.org/article/10.1088/1367-2630/aab7cd)
