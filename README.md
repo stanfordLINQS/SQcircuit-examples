@@ -1,8 +1,8 @@
 # SQcircuit-examples
 [![license](https://img.shields.io/badge/license-New%20BSD-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-To manifest the potential of the SQcircuit, we prepared the examples from simple qubits to state of the art 
-super conducting circuits of the literature, in which we effortlessly reproduce the main result of the paper 
+To manifest the potential of the SQcircuit, we prepared the examples from simple qubits to state-of-the-art 
+superconducting circuits of the literature, in which we effortlessly reproduce the main result of the paper 
 by SQcircuit functionalities. One can find the jupyter notebook examples in example folder, some of which are:
 
 * [Qubit protected by two Cooper-pair tunneling](https://github.com/stanfordLINQS/SQcircuit-examples/blob/main/examples/twoCPB.ipynb):
@@ -15,3 +15,7 @@ explained how the conventional method or perturbation theory does not correctly 
 highly anharmonic inductively-shunted qubits. However, by using SQcircuit, we simply reproduced the energy spectrum.
 * [Zero-Pi Qubit](https://github.com/stanfordLINQS/SQcircuit-examples/blob/main/examples/zeroPiQubit.ipynb): We calculated the
 energy spectrum and eigenfunctions of the zero-pi qubit from [Groszkowski2018](https://iopscience-iop-org.stanford.idm.oclc.org/article/10.1088/1367-2630/aab7cd)
+
+## Documentation
+The documentation of the SQcircuit is provided at:
+[sqcircuit.org](https://sqcircuit.org)
