@@ -7,6 +7,10 @@ by SQcircuit functionalities. One can find the jupyter notebook examples in exam
 
 * [Qubit protected by two Cooper-pair tunneling](https://github.com/stanfordLINQS/SQcircuit-examples/blob/main/examples/two_CPB.ipynb):
 [Smith2020](https://doi-org.stanford.idm.oclc.org/10.1038/s41534-019-0231-2)
+designed a superconducting circuit that maginfies quantum phase fluctuations with Cooper-pair pairing. We reproduced the energy spectrum of the paper for the circuit.
+
+* [Kite Circuit](https://github.com/stanfordLINQS/SQcircuit-examples/blob/main/examples/kite.ipynb):
+[Smith2022](https://journals-aps-org.stanford.idm.oclc.org/prx/abstract/10.1103/PhysRevX.12.021002)
 designed a qubit that is protected by two Cooper-pair tunneling. We reproduced the main results of the paper such as
 energy spectrum, wavefunctions, and matrix elements by use of SQcircuit.
 
