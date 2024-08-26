@@ -23,5 +23,7 @@ There are also a set of tutorial notebooks showing how to use ``SQcircuit`` to c
 
 * [Performing optimization](examples/gradient_based_optimization.ipynb): This notebook uses SQcircuit and PyTorch to perform gradient descent optimization with a fluxonium to achieve a desired qubit frequency.
 
+For a full-featured library using the gradient features of SQcircuit, see [Qubit-Discovery](https://github.com/stanfordLINQS/Qubit-Discovery), which automates and greatly extends the optimization notebook.
+
 ## Documentation
 The documentation for ``SQcircuit`` is provided at [sqcircuit.org](https://sqcircuit.org).
